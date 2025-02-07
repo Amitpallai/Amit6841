@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amit6841
+- 👋 Hi, I’m @Amit pallai
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Front-end 
 - 💞️ I’m looking to collaborate on ...
