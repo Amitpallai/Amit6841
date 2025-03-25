@@ -56,6 +56,8 @@
   <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo"  />
   <img width="30" />
   <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
+ <img width="30" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
 </div>
 
  
