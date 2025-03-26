@@ -51,12 +51,14 @@
   <img width="30" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
   <img width="30" />
+ <img src="https://skillicons.dev/icons?i=typescript" height="50" alt="typescript logo"  />
+  <img width="30" />
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
   <img width="30" />
   <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo"  />
   <img width="30" />
   <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
- <img width="30" />
+  <img width="30" />
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
 </div>
 
