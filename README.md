@@ -53,6 +53,12 @@
   <img width="30" />
  <img src="https://skillicons.dev/icons?i=typescript" height="50" alt="typescript logo"  />
   <img width="30" />
+ <img src="https://skillicons.dev/icons?i=websocket" height="50" alt="websocket logo"  />
+  <img width="30" />
+ <img src="https://skillicons.dev/icons?i=socketio" height="50" alt="socketio logo"  />
+  <img width="30" />
+ <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo"  />
+  <img width="30" />
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
   <img width="30" />
   <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo"  />
