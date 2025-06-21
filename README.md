@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit Kumar Pallai</h1>
-<h3 align="center">🚀 Full Stack Developer | B.Tech CSE'26 | Passionate about building real-world apps</h3>
+<h3 align="center">🚀 Full Stack Developer | B.Tech CSE'27 | Passionate about building real-world website</h3>
 
 ###
 
