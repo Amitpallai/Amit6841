@@ -1,21 +1,5 @@
- <h1 align="center">Hey, I'm Amit !</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<h4 align="left">- 📚 I'm currently learning  MERN Stack<br>- ⚡ In my free time create projects<br>-  =>     working on building personal projects</h4>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<h3 align="left">Where can you find me...</h3>
+<h1 align="center">Hi 👋, I'm Amit Kumar Pallai</h1>
+<h3 align="center">🚀 Full Stack Developer | B.Tech CSE'26 | Passionate about building real-world apps</h3>
 
 ###
 
