@@ -69,7 +69,7 @@ I am currently seeking opportunities as a Full Stack Developer, Frontend or Back
 
 
 ### 🤝 Connect With Me
-- 📧 Email: [amitkumarpallai](mailto:amitkumarpallai907@gmail.com) 
+- 📧 Email: [amitkumarpallai907@gmail](mailto:amitkumarpallai907@gmail.com) 
 - 🔗 LinkedIn: [amit-kumar-pallai](https://www.linkedin.com/in/amit-kumar-pallai-61a86025a/)
 - 💻 GitHub: [@Amitpallai](https://github.com/Amitpallai)
 
