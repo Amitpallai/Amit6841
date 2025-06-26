@@ -20,13 +20,13 @@
   </a>
 </div>
 
-I'm currently looking for **Full Stack Developer**, **Frontend/Backend Developer**, and **SDE1** roles where I can apply my technical skills and continue to grow as a developer. Open to both job and internship opportunities with teams that value continuous learning and innovation.
+I am currently seeking opportunities as a Full Stack Developer, Frontend or Backend Developer, or Software Development Engineer (SDE 1), where I can leverage my technical skills to contribute effectively to development teams and real-world projects. I am open to both full-time positions and internships within organizations that foster continuous learning, innovation, and professional growth.
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sagar-maheshwari-4ab2ba286/" target="_blank">
+  <a href="https://www.linkedin.com/in/amit-kumar-pallai-61a86025a/" target="_blank">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
-  <a href="mailto:maheshwarisagar65@gmail.com?subject=Job%20Opportunity" target="_blank">
+  <a href="mailto:amitkumarpallai907@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
   </a>
 </div>
