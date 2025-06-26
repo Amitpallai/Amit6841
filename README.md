@@ -66,5 +66,16 @@ I am currently seeking opportunities as a Full Stack Developer, Frontend or Back
   <img width="30" />
   <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
 </div>
+### 🤝 Connect With Me
+- 📧 Email: [amitkumarpallai](mailto:amitkumarpallai907@gmail.com)
+- 🔗 LinkedIn: [amit-kumar-pallai](https://www.linkedin.com/in/amit-kumar-pallai-61a86025a/)
+- 💻 GitHub: [@Amitpallai](https://github.com/Amitpallai)
+
+---
+
+<p align="center">
+  <em>“Code. Create. Share. Repeat.”</em>
+</p>
+
 
  
