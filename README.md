@@ -15,7 +15,7 @@
 ## Open to Opportunities 💼
 
 <div align="center">
-  <a href="mailto:maheshwarisagar65@gmail.com?subject=Job%20Opportunity" target="_blank">
+  <a href="mailto:amitkumarpallai907@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Actively_Seeking-Job_Opportunities-brightgreen?style=for-the-badge" alt="Job Opportunities" />
   </a>
 </div>
