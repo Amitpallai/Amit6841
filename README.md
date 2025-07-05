@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://amitpallai.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/amit-kumar-pallai-61a86025a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Amit6841" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Amitpallai" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -79,7 +79,7 @@ Stack: `React (Vite)`, `Express`, `MongoDB`, `Tailwind CSS`
 - 📧 [amitkumarpallai907@gmail.com](mailto:amitkumarpallai907@gmail.com)  
 - 🌐 [amitpallai.vercel.app](https://amitpallai.vercel.app)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/amit-kumar-pallai-61a86025a)  
-- 💻 [GitHub](https://github.com/Amit6841)
+- 💻 [GitHub](https://github.com/Amitpallai)
 
 ---
 
