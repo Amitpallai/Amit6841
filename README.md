@@ -15,7 +15,7 @@ I’m **Amit Kumar Pallai**, a dedicated and detail-oriented Full-Stack Develope
 
 I’m passionate about creating real-time, responsive UIs and efficient backends. With hands-on experience in production-level projects, I enjoy solving real-world problems through clean code, modern architecture, and developer-centric tools.
 
-💼 **Actively seeking full-time/internship opportunities** in web development and software engineering.
+### **Actively seeking full-time/internship opportunities** in web development and software engineering.
 
 ---
 
@@ -74,15 +74,6 @@ Stack: `Next.js`, `TypeScript`, `Tailwind CSS`, `Convex`
 #### 🛒 [GroceryMart](https://grocery-mart-npj4.vercel.app) · [GitHub](https://github.com/Amit6841/Grocery-Mart)  
 Online store with Stripe payments and admin dashboard.  
 Stack: `React (Vite)`, `Express`, `MongoDB`, `Tailwind CSS`
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amit6841&show_icons=true&theme=github_dark&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit6841&layout=compact&theme=github_dark&hide_border=true" height="170" />
-</p>
 
 ---
 
