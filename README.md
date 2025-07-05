@@ -9,18 +9,20 @@
 
 ---
 
-### 💡 About Me
+### 💼 About Me
 
-- 🎓 B.Tech Computer Science student at **Bhadrak Institute of Engineering & Technology**
-- 🔭 Currently working on full-stack products using **Next.js**, **Convex**, and **PostgreSQL**
-- 💬 Ask me about **React**, **Node.js**, **Next.js (App Router)**, and **TypeScript**
-- 🌐 Passionate about building real-time, responsive, and scalable applications
+I’m **Amit Kumar Pallai**, a dedicated and detail-oriented Full-Stack Developer currently pursuing a B.Tech in Computer Science. I specialize in building robust, scalable, and user-focused web applications using cutting-edge technologies like **Next.js**, **React**, **Node.js**, and **TypeScript**.
+
+I’m passionate about creating real-time, responsive UIs and efficient backends. With hands-on experience in production-level projects, I enjoy solving real-world problems through clean code, modern architecture, and developer-centric tools.
+
+💼 **Actively seeking full-time/internship opportunities** in web development and software engineering.
 
 ---
 
 ### 🚀 Tech Stack
 
 #### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -45,7 +47,8 @@
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Convex](https://img.shields.io/badge/Convex-000?style=flat-square)
 
-#### 🛠️ Developer Tools
+#### ⚙️ Developer Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -74,6 +77,15 @@ Stack: `React (Vite)`, `Express`, `MongoDB`, `Tailwind CSS`
 
 ---
 
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amit6841&show_icons=true&theme=github_dark&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit6841&layout=compact&theme=github_dark&hide_border=true" height="170" />
+</p>
+
+---
+
 ### 📫 Connect with Me
 
 - 📧 [amitkumarpallai907@gmail.com](mailto:amitkumarpallai907@gmail.com)  
@@ -83,4 +95,4 @@ Stack: `React (Vite)`, `Express`, `MongoDB`, `Tailwind CSS`
 
 ---
 
-<p align="center">🚀 Building with passion. Learning every day. Creating for impact.</p>
+<p align="center">🚀 Open to work | Let’s build the future together — one line of code at a time.</p>
